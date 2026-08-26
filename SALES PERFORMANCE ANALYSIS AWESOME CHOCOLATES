@@ -1,0 +1,325 @@
+🍫 Awesome Chocolates – Sales Performance Analysis
+
+📊 Project Overview
+
+The Awesome Chocolates Sales Performance Analysis project is an interactive Power BI dashboard designed to turn sales data into meaningful business insights.
+
+The goal is not just to create charts, but to help the business answer important questions about revenue, sales trends, profitability, products, regions, teams, salespersons, and shipments.
+
+The dashboard enables management to identify high-performing products and regions, understand sales trends, evaluate team performance, and determine where the business should focus its future growth efforts.
+
+---
+
+🎯 Business Questions
+
+This project focuses on answering four key business questions:
+
+1. Which products generate the most revenue?
+
+The dashboard analyzes the Top 5 Products by Total Amount to identify the products contributing most to overall revenue.
+
+From the dashboard, Organic Chocolate appears as the highest-revenue product among the displayed Top 5 products, followed by products such as Caramel Stuffed, Smooth Silky, 99% Dark & Pure, and Almond Choco.
+
+2. How do sales change over time?
+
+The dashboard includes a monthly sales trend covering the available period.
+
+The trend visualization allows the business to:
+
+- Monitor monthly sales performance.
+- Identify increases and decreases in sales.
+- Recognize periods of stronger sales activity.
+- Compare sales performance across months and years.
+- Identify opportunities for improving future sales.
+
+The dashboard shows that sales fluctuate across the months rather than remaining constant, making time-based monitoring important for business planning.
+
+3. Which regions are most profitable?
+
+The Total Profit by Geography visual compares profitability across:
+
+- India
+- New Zealand
+- Australia
+- USA
+- Canada
+
+Based on the displayed dashboard, India is the strongest-performing geography by total profit, followed by New Zealand and Australia.
+
+This indicates that the business should closely monitor successful regional strategies and consider opportunities to expand or strengthen operations in high-performing markets.
+
+4. Where should the business focus to grow faster?
+
+The dashboard suggests that growth should focus on a combination of:
+
+- High-revenue products
+- High-profit geographical regions
+- Strong-performing teams
+- High-performing salespersons
+- Sales periods showing stronger performance
+
+Rather than focusing on only one metric, the business should combine revenue, profit, product performance, geography, team performance, and sales trends to identify the strongest growth opportunities.
+
+---
+
+📌 Key Performance Indicators
+
+KPI| Dashboard Value
+Total Amount| $141M
+Total Boxes| 8.831344M
+Total Profit| $81.10M
+Total Shipments| 25K
+
+---
+
+📈 Dashboard Analysis
+
+1. Revenue Performance
+
+The dashboard reports approximately $141M in total sales amount.
+
+The Top 5 Products analysis helps identify the products making the largest contribution to revenue.
+
+Business takeaway
+
+The company should prioritize its strongest products through:
+
+- Better inventory availability
+- Targeted promotions
+- Regional expansion
+- Customer-focused marketing
+
+---
+
+2. Product Performance
+
+The Top 5 Products visual ranks products based on total sales amount.
+
+The leading product in the dashboard is Organic Chocolate.
+
+Business takeaway
+
+High-performing products should be monitored closely because they have a significant impact on total revenue.
+
+The company can investigate:
+
+- Why these products perform well
+- Which regions purchase them most
+- Whether additional inventory is required
+- Whether similar products can be promoted
+
+---
+
+3. Profitability by Geography
+
+The dashboard compares total profit across different geographies.
+
+Ranking shown in the dashboard
+
+1. India
+2. New Zealand
+3. Australia
+4. USA
+5. Canada
+
+Business takeaway
+
+India is the strongest displayed geography in terms of total profit.
+
+The company can study successful strategies in high-performing regions and determine whether similar approaches can be applied to lower-performing markets.
+
+---
+
+4. Team Performance
+
+The dashboard compares total sales amount across four teams:
+
+- Delish
+- Jucies
+- Tempo
+- Yummies
+
+The team analysis helps management understand how different teams contribute to overall revenue.
+
+Business takeaway
+
+Team-level performance can be used to:
+
+- Recognize high-performing teams
+- Identify improvement opportunities
+- Share successful sales strategies
+- Set performance targets
+
+---
+
+5. Salesperson Performance
+
+The dashboard contains a Top 5 Salesperson by Geography analysis.
+
+This allows management to compare salesperson performance across different regions.
+
+Business takeaway
+
+The business can use this information to:
+
+- Identify top performers
+- Understand regional sales strengths
+- Reward strong performance
+- Improve sales strategies
+
+---
+
+6. Shipment Performance
+
+The dashboard reports approximately 25K total shipments.
+
+Shipment performance is also analyzed by team.
+
+Business takeaway
+
+Shipment analysis can help the business understand whether sales activity is being supported by efficient distribution and fulfillment.
+
+---
+
+🔍 Key Business Insights
+
+Based on the dashboard:
+
+- Total sales amount is approximately $141M.
+- Total profit is approximately $81.10M.
+- Approximately 8.83M boxes were sold.
+- Total shipments are approximately 25K.
+- Organic Chocolate is the leading product among the displayed Top 5 products by sales amount.
+- India generates the highest total profit among the displayed geographical regions.
+- Team performance varies across Delish, Jucies, Tempo, and Yummies.
+- Sales performance changes across months, making trend monitoring important.
+- Salesperson performance varies across geographical markets.
+- Product, geographic, team, and time-based analysis together provide a stronger basis for business decisions.
+
+---
+
+🚀 Where Should the Business Focus to Grow Faster?
+
+Based on the dashboard, the recommended growth priorities are:
+
+1. Strengthen high-performing products
+
+Focus marketing, availability, and promotional activities on products generating the highest revenue.
+
+2. Expand successful regional strategies
+
+India currently shows the highest displayed profit. The business can investigate what drives its performance and apply successful strategies to other markets where appropriate.
+
+3. Improve lower-performing regions
+
+Analyze why regions with lower profitability are underperforming and identify opportunities for better distribution, pricing, marketing, and sales coverage.
+
+4. Learn from high-performing teams
+
+Identify the practices used by stronger teams and share them across the organization.
+
+5. Support top salespersons
+
+Use salesperson-level insights to recognize high performers and understand the methods contributing to their success.
+
+6. Monitor sales trends continuously
+
+Monthly sales analysis can help management identify changes in demand and make better inventory and marketing decisions.
+
+---
+
+💡 Business Recommendations
+
+Based on the analysis, the following actions are recommended:
+
+- Prioritize high-revenue products such as Organic Chocolate.
+- Focus expansion efforts on high-profit geographies.
+- Investigate the reasons behind differences in regional profitability.
+- Use team-level performance data to improve sales productivity.
+- Recognize and learn from top-performing salespersons.
+- Monitor monthly sales trends for planning and forecasting.
+- Align inventory and shipment planning with sales demand.
+- Use Power BI dashboards regularly for data-driven decision-making.
+
+---
+
+🛠️ Tools & Technologies
+
+- Microsoft Power BI – Dashboard development and visualization
+- Power Query – Data cleaning and transformation
+- DAX – KPI and measure creation
+- Microsoft Excel / CSV – Data source
+- GitHub – Project documentation and version control
+
+---
+
+📊 Dashboard Features
+
+The dashboard contains:
+
+- Total Amount KPI
+- Total Boxes KPI
+- Total Profit KPI
+- Total Shipments KPI
+- Geography filter
+- Team filter
+- Year filter
+- Total Profit by Geography
+- Top 5 Products by Total Amount
+- Total Amount by Team
+- Top 5 Salespersons by Geography
+- Monthly Sales Trend
+- Total Shipments by Team
+
+---
+
+🔄 Project Workflow
+
+Data Collection
+      ↓
+Data Cleaning
+      ↓
+Data Transformation
+      ↓
+Data Analysis
+      ↓
+DAX Measures
+      ↓
+Power BI Dashboard
+      ↓
+Business Questions
+      ↓
+Insights
+      ↓
+Recommendations
+
+
+
+🏁 Conclusion
+
+The Awesome Chocolates Sales Performance Analysis project demonstrates how Power BI can transform raw sales data into actionable business intelligence.
+
+Instead of focusing only on visualization, the dashboard answers practical business questions:
+
+Which products generate the most revenue?
+→ Organic Chocolate is the strongest displayed product among the Top 5.
+
+How do sales change over time?
+→ Sales fluctuate across months, making trend monitoring important.
+
+Which regions are most profitable?
+→ India is the strongest displayed geography by total profit.
+
+Where should the business focus to grow faster?
+→ Focus on high-revenue products, profitable regions, strong sales teams, top salespersons, and periods of stronger sales performance.
+
+The project demonstrates the use of data visualization, business analysis, and data-driven decision-making to support sales growth.
+
+---
+
+👨‍💻 Project Information
+
+Project: Awesome Chocolates – Sales Performance Analysis
+Domain: Data Analytics / Business Intelligence
+Tool: Microsoft Power BI
+Repository: GitHub
